@@ -472,6 +472,5 @@ Feedback on the analytical approach, KPI selection, business interpretation, and
 
 - **[View My GitHub Profile →](https://github.com/neerajkumar-git001)**
 - **[View My LinkedIn Profile →](https://www.linkedin.com/in/neerajkumarsahu-data/)**
-- **[Explore This Project →](./)**
 
 ---
