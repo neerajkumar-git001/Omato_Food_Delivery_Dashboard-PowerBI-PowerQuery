@@ -163,11 +163,11 @@ Data/
 
 ### OMATO Food Delivery Dashboard
 
-![OMATO Food Delivery Dashboard](./Omato_Food_Delivery_Preview.jpg)
+![OMATO Food Delivery Dashboard](./OMATO_FOOD_DELIVERY_DASHBOARD_PREVIEW.jpg)
 
 ### 🔗 Dashboard Preview
 
-[**View Full Dashboard Preview →**](./Omato_Food_Delivery_Preview.jpg)
+[**View Full Dashboard Preview →**](./OMATO_FOOD_DELIVERY_DASHBOARD_PREVIEW.jpg)
 
 ---
 
